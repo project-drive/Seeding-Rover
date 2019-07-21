@@ -1,0 +1,5 @@
+1) Ultrasonic Sensor
+2) Screw
+3) Motor Driver L293D
+4) Tyres(4)
+5) Chasis
